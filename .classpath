@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src/Semana04-LinearFeedbackShiftRegister"/>
+	<classpathentry kind="src" path="src/Semana06-QuebraOTP"/>
+	<classpathentry kind="src" path="src/Semana07-DES_AES"/>
+	<classpathentry kind="src" path="src/Semana08-SHA256"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
