@@ -1,4 +1,4 @@
-package Semana_09_;
+package Semana_09_DiffieHellman;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
